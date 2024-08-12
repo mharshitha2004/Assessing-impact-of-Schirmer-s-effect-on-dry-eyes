@@ -8,12 +8,12 @@
 - Understanding the relationship between digital screen usage and eye health is essential for developing effective strategies to mitigate potential risks. 
 - By analyzing these factors and their interactions, researchers aim to identify patterns and correlations that can inform recommendations for promoting optimal eye health in the digital age.
 - This study seeks to explore the multifaceted effects of digital screen usage on eye health and associated symptoms. 
-- By examining various factors contributing to digital eye strain, researchers aim to provide insights into preventive measures and interventions to support eye health in an increasingly screen-dependent world.
+- By examining various factors contributing to digital eye strain, researchers aim to provide insights into preventive measures and interventions to support eye health in an increasingly screen-dependent world.__
 **Data Source**
 - The dataset comprises 300 observations and includes 28 features.
-- The dataset contains both missing and null values, as well as noticeable outliers among the observations.
-**Brief description of the Data source** 
-**Feature Name and its Description**
+- The dataset contains both missing and null values, as well as noticeable outliers among the observations.__
+**Brief description of the Data source**__
+**Feature Name and its Description**__
 - 1	  Name-Name of the individual
 - 2	  Age-Age of the individual
 - 3	  Sex-Gender of the individual
@@ -41,16 +41,16 @@
 - 25	Schimers1LeftEye-Schrimers Test results of Left eye without anesthesia
 - 26	Schimers1RightEye-Schrimers Test results of Right eye without anesthesia
 - 27	Schimers2LeftEye-Schrimers Test results of Left eye with anesthesia
-- 28	Schimers2RightEye-Schrimers Test results of Right eye with anesthesia
-**Objectives**
+- 28	Schimers2RightEye-Schrimers Test results of Right eye with anesthesia__
+**Objectives**__
 - To investigate the impact of digital screen usage on eye health and associated symptoms by analyzing various factors such as age, duration of screen time, online platforms used, nature of activities performed on the screen, screen illumination, years of exposure to screens, daily screen hours, types of devices used, distance from the screen, nighttime usage, blinking frequency, difficulty focusing after screen use, frequency and severity of complaints, observed ocular symptoms, and specific eye examination results.
 - To identify patterns and correlations within the dataset to better understand the relationship between digital screen usage and ocular health outcomes.
 - To explore potential risk factors associated with digital eye strain and other ocular symptoms arising from prolonged screen exposure.
 - To develop strategies and recommendations for maintaining optimal eye health in the digital age based on the findings from the analysis.
 - To assess the effectiveness of different classification and prediction models in identifying individuals at risk of developing digital eye strain or other ocular complications due to excessive screen usage.
 - To interpret the results of the data analysis and translate them into actionable insights or decisions for promoting eye health and mitigating the adverse effects of digital screen exposure.
-- To construct a machine learning model for predicting Schirmer's Test Results for both eyes, considering the presence or absence of anesthesia. The Schirmer's test assesses tear production and can indicate whether the eyes are dry or watery. The objective is to predict the test outcomes for both eyes based on the dataset information.
-**Conclusion**
+- To construct a machine learning model for predicting Schirmer's Test Results for both eyes, considering the presence or absence of anesthesia. The Schirmer's test assesses tear production and can indicate whether the eyes are dry or watery. The objective is to predict the test outcomes for both eyes based on the dataset information.__
+**Conclusion**__
 - In conclusion, the digital eye strain project has provided valuable insights into the factors influencing eye health in the digital age through comprehensive exploratory data analysis and machine learning modeling.
 - By examining various metrics such as screen time, device usage, and eye health indicators, the project aimed to understand and predict digital eye strain more effectively.
 - Through the implementation of machine learning algorithms like Logistic Regression, Random Forest,Decision Tree the project evaluated the performance of each model in predicting eye strain-related metrics.
